@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\admin\source\repos\Project_5.1\UnitTest1\UnitTest1.cpp(15,8): error C3861: 'k': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\admin\source\repos\Project_5.1\UnitTest1\UnitTest1.cpp(16,21): error C2065: 'k': undeclared identifier
+  (compiling source file '/UnitTest1.cpp')
+  
