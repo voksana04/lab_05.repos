@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Project_5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F749450-2D0A-429A-B7CF-9F73170E2AE1}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\admin\\source\\repos\\Project_5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F749450-2D0A-429A-B7CF-9F73170E2AE1}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADF6BE68-B2EC-441E-8C7C-A9DE7B7F0A73}|Project_5.1\\Project_5.1.vcxproj|C:\\Users\\admin\\source\\repos\\Project_5.1\\Project_5.1\\lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ADF6BE68-B2EC-441E-8C7C-A9DE7B7F0A73}|Project_5.1\\Project_5.1.vcxproj|solutionrelative:Project_5.1\\lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,17 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T14:08:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab_5.1.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_5.1\\Project_5.1\\lab_5.1.cpp",
               "RelativeDocumentMoniker": "Project_5.1\\lab_5.1.cpp",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_5.1\\Project_5.1\\lab_5.1.cpp",
               "RelativeToolTip": "Project_5.1\\lab_5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-01T13:20:44.571Z",
               "EditorCaption": ""
