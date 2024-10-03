@@ -21,8 +21,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_5.1\\Project_5.1\\lab_5.1.cpp",
+              "RelativeDocumentMoniker": "Project_5.1\\lab_5.1.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_5.1\\Project_5.1\\lab_5.1.cpp",
+              "RelativeToolTip": "Project_5.1\\lab_5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T13:20:44.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,22 +41,9 @@
               "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_5.1\\UnitTest1\\UnitTest1.cpp",
               "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-01T14:08:16.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "lab_5.1.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_5.1\\Project_5.1\\lab_5.1.cpp",
-              "RelativeDocumentMoniker": "Project_5.1\\lab_5.1.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_5.1\\Project_5.1\\lab_5.1.cpp",
-              "RelativeToolTip": "Project_5.1\\lab_5.1.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-01T13:20:44.571Z",
               "EditorCaption": ""
             }
           ]
